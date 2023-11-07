@@ -10,3 +10,4 @@ To run this program, run:
 ```bash
 ./run.sh
 ```
+Discord: tony888.8
